@@ -1,0 +1,11 @@
+Install gcc, cmake, and gtk2
+open terminal and go to the root of program
+
+enter the following commands:
+
+mkdir build
+cd build
+cmake ..
+make
+
+the binary file gPlotter3D is in the root folder of program. Run it ...
